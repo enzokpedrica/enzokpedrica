@@ -1,0 +1,4 @@
+- 👋 Olá meu nome é enzo
+- [+1] Meu email de contato é enzo.pedrica@gmail.com
+- 👀 Estou interessado em aprender novas linguagens
+- 🌱 Estou aprendendo JavaScript, CSS e HTML
