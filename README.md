@@ -1,3 +1,3 @@
 - 👋 Olá meu nome é Enzo
-- [+1] Meu email de contato é enzo.pedrica@gmail.com
-- Engenharia de Dados
+- Meu email de contato é enzo.pedrica@gmail.com
+- Interessado na área de Engenharia de Dados onde possuo habilidades com Python, Pandas e SQL.
