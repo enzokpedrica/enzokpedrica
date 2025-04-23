@@ -15,18 +15,6 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-
-| Categoria | Ferramentas |
-|----------|-------------|
-| **Linguagens** | Python, SQL |
-| **Análise e Visualização** | Power BI, Pandas |
-| **Banco de Dados** | MySQL, SQL Server |
-| **Cloud & Big Data** | Azure, Apache Spark, Databricks |
-| **Outros** | Git, GitHub, Jupyter Notebook |
-
----
-
 ## 📚 Projetos em Destaque
 
 - [🔗 ETL-ativos-financeiros](https://github.com/enzokpedrica/ETL-ativos-financeiros)
