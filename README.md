@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou o Enzo Koyano Pedriça
+# 🤝 Saudações, sou o Enzo Koyano Pedriça
 
-🎯 **Analista de Dados em formação** com foco em transformar dados em informações valiosas para tomadas de decisão. Apaixonado por tecnologia, aprendizado contínuo e soluções baseadas em dados.
+🎯 Focado em transformar dados em informações valiosas para tomadas de decisão. Apaixonado por tecnologia, aprendizado contínuo e soluções baseadas em dados.
 
 ---
 
