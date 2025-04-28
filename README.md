@@ -19,7 +19,7 @@
 
 - [🔗 ETL-ativos-financeiros](https://github.com/enzokpedrica/ETL-ativos-financeiros)
 - [🔗 Projetos Bootcamp da DIO](https://github.com/enzokpedrica/Projetos-Bootcamp-DIO)
-- [🔗 Projetos Bootcamp da DIO](https://github.com/enzokpedrica/Projeto-vendas-suplementos)
+- [🔗 Análise Vendas de Suplementos](https://github.com/enzokpedrica/Projeto-vendas-suplementos)
 
 
 ---
