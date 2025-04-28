@@ -17,7 +17,7 @@
 
 ## 📚 Projetos em Destaque
 
-- [🔗 ETL-ativos-financeiros](https://github.com/enzokpedrica/ETL-ativos-financeiros)
+- [🔗 ETL Ativos Financeiros](https://github.com/enzokpedrica/ETL-ativos-financeiros)
 - [🔗 Projetos Bootcamp da DIO](https://github.com/enzokpedrica/Projetos-Bootcamp-DIO)
 - [🔗 Análise Vendas de Suplementos](https://github.com/enzokpedrica/Projeto-vendas-suplementos)
 
