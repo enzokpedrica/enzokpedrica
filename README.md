@@ -9,7 +9,7 @@
 - Habilidades com **Power BI**: DAX, ETL com Power Query, criação de dashboards
 - Conhecimento em **Python**, com foco em análise de dados usando **Pandas**
 - Utilização de **SQL** para extração e modelagem em bancos **MySQL** e **SQL Server**
-- Familiaridade com **Azure**, **Apache Spark**, **Databricks**, **Docker**, **Airflow**
+- Familiaridade com **Azure**, **PySpark**, **Databricks**, **Docker**, **Apache Airflow**
 - Conhecimento em versionamento de código com **Git e GitHub**
 
 ---
