@@ -1,4 +1,4 @@
-# 🤝 Olá, Enzo Koyano Pedriça
+# 🤝 Saudações
 
 🎯 Focado em transformar dados em informações valiosas para tomadas de decisão.
 ---
