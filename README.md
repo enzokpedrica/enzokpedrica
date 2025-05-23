@@ -1,7 +1,6 @@
-# 🤝 Saudações, Enzo Koyano Pedriça
+# 🤝 Olá, Enzo Koyano Pedriça
 
-🎯 Focado em transformar dados em informações valiosas para tomadas de decisão. Apaixonado por tecnologia, aprendizado contínuo e soluções baseadas em dados.
-
+🎯 Focado em transformar dados em informações valiosas para tomadas de decisão.
 ---
 
 ## 🧠 Conhecimentos Técnicos
@@ -19,7 +18,6 @@
 - [🔗 ETL Ativos Financeiros](https://github.com/enzokpedrica/ETL-ativos-financeiros)
 - [🔗 Projetos Bootcamp da DIO](https://github.com/enzokpedrica/Projetos-Bootcamp-DIO)
 - [🔗 Análise Vendas de Suplementos](https://github.com/enzokpedrica/Projeto-vendas-suplementos)
-
 
 ---
 
