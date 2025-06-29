@@ -6,7 +6,7 @@
 - Banco de Dados: **SQL** em bancos **MySQL**, **Postgree** e **SQL Server**
 - Cloud: **Azure** com Certificações: AZ-900
 - Versionamento de Códiog: **Git e GitHub**
-- Conhecimento mais básico em **PySpark**, **Databricks**, **Docker**, **Apache Airflow**
+- Conhecimento básico em **PySpark**, **Databricks**, **Docker**, **Apache Airflow**
 
 ## 📫 Contato
 
