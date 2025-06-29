@@ -1,11 +1,11 @@
 # 🌎 Hello World
 
-## 🧠 Engenheiro de Dados com conhecimentos em ferramentas como:
-- **Power BI**
-- **Python** e bibliotecas: **Pandas**, **Numpy**, **MatplotLib**, **OpenpyXL**
-- **SQL** em bancos **MySQL**, **Postgree** e **SQL Server**
-- **Azure** tirando a AZ-900
-- **Git e GitHub**
+## 🧠 Engenheiro de Dados com conhecimentos em ferramentas de:
+- Visualização: **Power BI**
+- Processo de ETL: **Python** e bibliotecas: **Pandas**, **Numpy**, **MatplotLib**, **OpenpyXL**
+- Banco de Dados: **SQL** em bancos **MySQL**, **Postgree** e **SQL Server**
+- Cloud: **Azure** com Certificações: AZ-900
+- Versionamento de Códiog: **Git e GitHub**
 - Conhecimento mais básico em **PySpark**, **Databricks**, **Docker**, **Apache Airflow**
 
 ## 📫 Contato
