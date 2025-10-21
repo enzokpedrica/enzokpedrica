@@ -5,7 +5,7 @@ Formado em Administração e dando sequência em uma Pós-Graduação na área d
 
 ## ⚙️ Conhecimentos em Ferramentas:
 - Python (Pandas, Numpy, Openpyxl)
-- SQL (CTEs, JOINS, RANK)
+- SQL (CTEs, JOINS)
 - Excel (Macros, Fórmulas, VBA)
 - Metodologias Ágeias (Scrum, Kanban, Lean)
 - Banco de Dados (SQL Server, PostGree, MySQL)
