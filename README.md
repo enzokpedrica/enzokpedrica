@@ -18,6 +18,12 @@ Formado em Administração e dando sequência em uma Pós-Graduação na área d
 - 💼 [LinkedIn](https://www.linkedin.com/in/enzo-koyano-pedriça/)
 - 📧 enzo.pedrica@gmail.com
 
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+       
+<i class="devicon-apacheairflow-plain "></i>
+             
+
 <h2> 🚀  Algumas ferramentas que usei e aprendi</h2> 
 <p align="left"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />  
