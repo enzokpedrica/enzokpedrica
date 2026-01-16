@@ -1,6 +1,6 @@
-# 👋 Olá, sou Enzo Pedriça!
+# 👋 Olá, sou Enzo Koyano Pedriça!
 
-## 🚀 Product Analyst | Automação Industrial | Desenvolvedor
+## 🚀 Product Analyst | Automação Industrial | Desenvolvedor | Projetista
 
 Analista de Desenvolvimento de Produtos na **Linea Brasil**, onde transformo processos manuais em soluções automatizadas para a indústria moveleira.
 
@@ -45,14 +45,15 @@ Formado em Administração e cursando Pós-Graduação em **Engenharia de Desenv
 ## 🎯 Projetos em Destaque
 
 ### 🪵 CoreWood
-Plataforma de automação que converte arquivos STEP/CAD para código CNC, com visualização 3D e geração de PDFs técnicos. Resultado: **96% de redução no tempo de programação**.
+Plataforma de automação que converte arquivos STEP/CAD para código CNC, com visualização 3D e geração de PDFs técnicos. Resultado: **47% de redução no tempo de programação**.
 
-### 🖨️ PrintHub
+### 🖨️ FastPrint
 Sistema de impressão automatizada de PDFs para o setor de engenharia.
+Resultado: **96% de redução de clique e 83% de redução em pesquisa de documentos**.
 
 ---
 
-## 📫 Vamos conversar?
+## 📫 E aí?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-koyano-pedriça/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzo.pedrica@gmail.com)
