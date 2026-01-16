@@ -1,29 +1,64 @@
-# 🌎 Hello World !
+# 👋 Olá, sou Enzo Pedriça!
 
-## 🧠 Analista Desenvolvimento de Produtos
-Formado em Administração e dando sequência em uma Pós-Graduação na área de Desenvolvimento de Produto, sou um grande **curioso** em tecnologia que busca desenvolver problemas e melhorar processos através do pensamento analítico e lógico. Procuro sempre pensar de maneira ampla sobre um problema ou mesmo uma rotina visando sempre melhorar a eficiência através de pensamento analítico, lógico e criativo.
+## 🚀 Product Analyst | Automação Industrial | Desenvolvedor
+
+Analista de Desenvolvimento de Produtos na **Linea Brasil**, onde transformo processos manuais em soluções automatizadas para a indústria moveleira.
+
+Sou o criador do **CoreWood** — uma plataforma que converte arquivos STEP/CAD em código CNC e gera documentação técnica automaticamente, alcançando **96% de redução no tempo de programação manual**.
+
+Formado em Administração e cursando Pós-Graduação em **Engenharia de Desenvolvimento de Produto**, combino visão de negócio com habilidades técnicas para resolver problemas reais da indústria.
+
+---
+
+## 🛠️ Stack Principal
 
 <p align="center"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
 </p>
 
-## ⚙️ Conhecimentos em Ferramentas:
-- Python (Pandas, Numpy, Openpyxl)
-- SQL (CTEs, JOINS)
-- Excel (Macros, Fórmulas, VBA)
-- Metodologias Ágeias (Scrum, Kanban, Lean)
-- Banco de Dados (SQL Server, PostGree, MySQL)
-- Modelagem Relacional, Dimensional
-- JavaScript (Node.JS)
-- PowerBI (Funções DAX)
-- Microsoft Apps (Planner, Power Automate, Fabric)
+---
 
-## 📫 Contato
-- 💼 [LinkedIn](https://www.linkedin.com/in/enzo-koyano-pedriça/)
-- 📧 enzo.pedrica@gmail.com     
+## 💡 Habilidades
 
+**Backend & Automação**
+- Python (FastAPI, Pandas, NumPy, OpenPyXL, pythonOCC)
+- Processamento de arquivos CAD/STEP
+- Geração automatizada de documentação técnica
+
+**Frontend**
+- React, JavaScript, HTML/CSS
+
+**Dados & BI**
+- SQL (CTEs, JOINs, Window Functions)
+- Power BI (DAX, modelagem dimensional)
+- PostgreSQL, SQL Server, MySQL
+
+**Metodologias**
+- Scrum, Kanban, Lean
+
+---
+
+## 🎯 Projetos em Destaque
+
+### 🪵 CoreWood
+Plataforma de automação que converte arquivos STEP/CAD para código CNC, com visualização 3D e geração de PDFs técnicos. Resultado: **96% de redução no tempo de programação**.
+
+### 🖨️ PrintHub
+Sistema de impressão automatizada de PDFs para o setor de engenharia.
+
+---
+
+## 📫 Vamos conversar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-koyano-pedriça/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzo.pedrica@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
