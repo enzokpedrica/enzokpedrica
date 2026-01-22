@@ -4,7 +4,7 @@
 
 Analista de Desenvolvimento de Produtos na **Linea Brasil**, onde transformo processos manuais em soluções automatizadas para a indústria moveleira.
 
-Sou o criador do **CoreWood** — uma plataforma que converte arquivos STEP/CAD em código CNC e gera documentação técnica automaticamente, alcançando **47% de redução no tempo de programação manual**.
+Sou o criador do **CoreWood** — uma plataforma que converte arquivos STEP/CAD em código CNC e gera documentação técnica automaticamente, alcançando **96% de redução no tempo de programação manual**.
 
 Formado em Administração e cursando Pós-Graduação em **Engenharia de Desenvolvimento de Produto**, combino visão de negócio com habilidades técnicas para resolver problemas reais da indústria.
 
@@ -45,7 +45,7 @@ Formado em Administração e cursando Pós-Graduação em **Engenharia de Desenv
 ## 🎯 Projetos em Destaque
 
 ### 🪵 CoreWood
-Plataforma de automação que converte arquivos STEP/CAD para código CNC, com visualização 3D e geração de PDFs técnicos. Resultado: **47% de redução no tempo de programação**.
+Plataforma de automação que converte arquivos STEP/CAD para código CNC, com visualização 3D e geração de PDFs técnicos. Resultado: **96% de redução no tempo de programação**.
 
 ### 🖨️ FastPrint
 Sistema de impressão automatizada de PDFs para o setor de engenharia.
