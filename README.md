@@ -2,12 +2,11 @@
 
 ## 🚀 Product Analyst | Desenvolvedor | Projetista
 
-Analista de Desenvolvimento de Produtos na **Linea Brasil**, onde transformo processos manuais em soluções automatizadas para a indústria moveleira.
+Analista de Desenvolvimento de Produtos na **Linea Brasil**, onde transformo processos manuais em soluções automatizadas para a indústria moveleira. Com uma grande paixão por inovação busco sempre resolver PROBLEMAS com a TECNOLOGIA pensando de forma analítica e lógica.
 
 Sou o criador do **CoreWood** — uma plataforma que facilita o desenvolvimento de produtos na indústria de móveis, convertendo arquivos STEP/CAD em código e gerando arquivos para demais áreas, alcançando **90% de redução no tempo de programação manual**.
 
-Formado em Administração e Pós-Graduado em **Engenharia de Desenvolvimento de Produto**, combino regras de negócio com habilidades técnicas para resolver problemas reais da indústria usando tecnologia e pensando de forma inovadora.
-
+Formado em Administração e Pós-Graduado em **Engenharia de Desenvolvimento de Produto**.
 ---
 
 ## 🛠️ Stack Principal
@@ -37,9 +36,6 @@ Formado em Administração e Pós-Graduado em **Engenharia de Desenvolvimento de
 - SQL (CTEs, JOINs, Window Functions)
 - Power BI (DAX, modelagem dimensional)
 - PostgreSQL, SQL Server, MySQL
-
-**Metodologias**
-- Scrum, Kanban, Lean
 
 ---
 
