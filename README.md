@@ -55,7 +55,7 @@ Frentes validadas em POC:
 - **Fluxo de Furação** — extração da geometria de furação diretamente do arquivo STEP e geração da documentação correspondente
 - **Exportação PDF** — documentação técnica automatizada para engenharia e produção
 - **Paletização** — otimização do plano de paletização das peças
-- 
+  
 Stack: FastAPI · React · PostgreSQL · Docker · pythonOCC
 
 ### 📁 PLM Linea
