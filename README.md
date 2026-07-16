@@ -2,7 +2,7 @@
 
 ## 🚀 Engenharia Digital | CAD-to-CNC Automation | Desenvolvedor
 
-Analista de Desenvolvimento de Produtos na **Linea Brasil**, onde transformo processos manuais em soluções automatizadas para a indústria moveleira. Atuo na interseção entre chão de fábrica, engenharia de produto e software — um perfil dinâmico que me permite construir ferramentas que resolvem problemas reais de produção.
+Atuo na área de Desenvolvimento de Produtos na **Linea Brasil**, onde transformo processos manuais em soluções automatizadas para a indústria moveleira. Atuo na interseção entre chão de fábrica, engenharia de produto e software — um perfil dinâmico que me permite construir ferramentas que resolvem problemas reais de produção.
 
 Criador do **CoreWood**, plataforma de automação que visa centralizar informações de produto para um trabalho mais eficiente ao time de Desenvolvimento.
 
